@@ -1,0 +1,5 @@
+FACTURA! 
+
+ID COMANDA: 2
+Produsul: branza avand pretul: 6
+Suma totala a comenzii este: 6
